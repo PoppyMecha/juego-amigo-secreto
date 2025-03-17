@@ -18,4 +18,4 @@ Luego de que todos los amigos sean sorteados aparecer√° una advertencia y deber√
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/203376134?v=4" width=115><br><sub>Poppy Mecha</sub>](https://github.com/PoppyMecha) |
+[<img src="https://avatars.githubusercontent.com/u/203376134?v=4" width=115><br><sub>Poppy Mecha</sub>](https://github.com/PoppyMecha)
