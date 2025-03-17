@@ -11,4 +11,11 @@ Para añadir los nombres de tus amigos, escribe en la caja el nombre y haz click
 No se repetirá ninguno, si la caja o tu lista de amigos está vacía aparecerá una advertencia.
 Luego de que todos los amigos sean sorteados aparecerá una advertencia y deberás refrescar la página para volver a jugar.
 
-![Imagen del juego](https://github.com/user-attachments/assets/d4f05725-8e40-48a4-b8fd-e6aac6efdb9e)
+![Imagen del juego](https://github.com/user-attachments/assets/69ba6df2-6b66-4b96-9ad7-f17315ad0f4c)
+
+
+
+
+## Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/203376134?v=4" width=115><br><sub>Poppy Mecha</sub>](https://github.com/PoppyMecha) |
