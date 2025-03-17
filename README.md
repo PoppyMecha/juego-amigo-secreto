@@ -7,7 +7,8 @@
 
 Proyecto desarrollado para el Challenge de Principiante en Programación
 
-<p>En este juego puedes añadir el nombre de tus amigos en la caja y luego sortearlos uno a uno.
+Para añadir los nombres de tus amigos, escribe en la caja el nombre y haz click en Añadir. Luego de ingresarlos a todos, dale click en el boton Sortear amigo
 No se repetirá ninguno, si la caja o tu lista de amigos está vacía aparecerá una advertencia.
-Luego de que todos los amigos sean sorteados aparecerá una advertencia y deberás refrescar la página para volver a jugar.</p>
+Luego de que todos los amigos sean sorteados aparecerá una advertencia y deberás refrescar la página para volver a jugar.
 
+![Imagen del juego](https://imgur.com/a/ixgy23g)
