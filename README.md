@@ -29,6 +29,8 @@ Luego de que todos los amigos sean sorteados aparecer√° una advertencia y deber√
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kerol2r20/Windows-terminal-context-menu/refs/heads/master/icons/git-bash.ico" alt="Git Bash" width="50" height="50"/> </a> 
 
+<a href="https://github.com/home" target="_blank"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="50" height="50"/> </a> 
+
 
 ## Autor
 
