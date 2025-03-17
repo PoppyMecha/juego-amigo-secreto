@@ -8,15 +8,19 @@ function agregarAmigo() {
     let amigo = nombreAmigo.value;
 
     nombreAmigo.focus();
-    if (amigo == ''){
+
+    if (amigo == '') {
         alert('Ingrese un nombre válido');
     } else {
-        listaAmigos.push(amigo);
-        nombreAmigo.value = "";
-        mostrarListaAmigos();
-        
-    }
-    console.log(listaAmigos);
+        if (listaAmigos.includes(amigo)){
+            alert("Amigo ya ingresado, intenta con otro nombre");
+            nombreAmigo.value = "";
+        } else {
+            listaAmigos.push(amigo);
+            nombreAmigo.value = "";
+            mostrarListaAmigos();
+        }  
+    }  
 }
 
 
@@ -39,6 +43,16 @@ function sortearAmigo() {
         alert('Lista de amigos vacía, ingrese al menos un nombre');
         return;
     } else {
-        resultado.innerHTML = `Tu amigo secreto es ${amigoSorteado}!!!`
+        if (listaAmigos.length == nombreSorteado.length){
+            alert('Se sortearon todos los amigos');
+        } else {
+            if (nombreSorteado.includes(amigoSorteado)){
+                return sortearAmigo();
+            } else {
+                resultado.innerHTML = `Tu amigo secreto es ${amigoSorteado}!!!`;
+                nombreSorteado.push(amigoSorteado)
+                console.log(nombreSorteado)
+            }
+        }
     }
 }
