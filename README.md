@@ -11,4 +11,4 @@ Para añadir los nombres de tus amigos, escribe en la caja el nombre y haz click
 No se repetirá ninguno, si la caja o tu lista de amigos está vacía aparecerá una advertencia.
 Luego de que todos los amigos sean sorteados aparecerá una advertencia y deberás refrescar la página para volver a jugar.
 
-![Imagen del juego](https://imgur.com/a/ixgy23g)
+![Imagen del juego](https://pasteboard.co/C2aSaG2SzQ3c.jpg)
