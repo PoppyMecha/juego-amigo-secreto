@@ -5,9 +5,9 @@
    <img src="https://img.shields.io/badge/Status-Finalizado!-blue">
    </p>
 
-En este juego puedes añadir el nombre de tus amigos en la caja y luego sortearlos uno a uno.
-No se repetirá ninguno, si la caja o tu lista de amigos está vacía aparecerá una advertencia.
-Luego de que todos los amigos sean sorteados aparecerá una advertencia y deberás refrescar la página para volver a jugar.
+Proyecto desarrollado para el Challenge de Principiante en Programación.
 
-Proyecto para el Challenge de Principiante en Programación.
+<p>En este juego puedes añadir el nombre de tus amigos en la caja y luego sortearlos uno a uno.</p>
+<p>No se repetirá ninguno, si la caja o tu lista de amigos está vacía aparecerá una advertencia.</p>
+<p>Luego de que todos los amigos sean sorteados aparecerá una advertencia y deberás refrescar la página para volver a jugar.</p>
 
